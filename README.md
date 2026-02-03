@@ -12,7 +12,7 @@ Feel free to reach out if you want to discuss backend engineering, system design
 
 🛠️ My Tech
 
-**Languages** - Java
+**Languages** - Java, C++
 
 **Backend & Architecture** - Spring Boot, Microservices, REST APIs, Spring WebFlux, JPA, Keycloak, OAuth 2.0, JWT
 
