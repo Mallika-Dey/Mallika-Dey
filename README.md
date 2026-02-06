@@ -14,11 +14,11 @@ Feel free to reach out if you want to discuss backend engineering, system design
 
 **Languages** - Java, C++
 
-**Backend & Architecture** - Spring Boot, Microservices, REST APIs, Spring WebFlux, JPA, Keycloak, OAuth 2.0, JWT
+**Backend & Architecture** - Spring Boot, Microservices, REST APIs, Spring WebFlux, JPA, Keycloak, OAuth 2.0
 
 **Databases** - PostgreSQL, MySQL
 
-**Tools** - Git, AWS, Docker, Linux
+**Tools** - Git, AWS, Docker, Linux, Flyway
 
 <!--
 **Mallika-Dey/Mallika-Dey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
